@@ -1,4 +1,0 @@
-https://github.com/NeoDeveloperz/BPI-WiringPi2-Python.git
-https://github.com/NeoDeveloperz/BPI-WiringPi2.git
-https://github.com/NeoDeveloperz/RPi.GPIO.git
-https://github.com/NeoDeveloperz/luma.oled.git
