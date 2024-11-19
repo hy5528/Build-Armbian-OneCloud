@@ -87,7 +87,7 @@ inputs:
     required: false
     default: "Build with [Armbian tools](https://github.com/armbian/build)"
 
-runs:
+runs-on: "self-hosted"
   using: "composite"
 
   steps:
