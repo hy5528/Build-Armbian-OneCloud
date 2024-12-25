@@ -17,10 +17,10 @@ GOVERNOR=ondemand
 case $BRANCH in
 	legacy)
 
-		KERNELBRANCH="branch:linux-5.11.y"
+		KERNELDIR='linux-meson'
+		KERNELSOURCE='https://github.com/xdarklight/linux'
+		KERNELBRANCH="branch:meson-mx-integration-5.18-20220417"
 		KERNELPATCHDIR='meson-'$BRANCH
-
-		BUILD_DESKTOP=no
 
         ;;
 	current)
